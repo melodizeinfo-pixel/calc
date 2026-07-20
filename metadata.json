@@ -1,0 +1,6 @@
+{
+  "name": "Calculadora",
+  "description": "Una calculadora elegante, interactiva y moderna con funciones estándar y científicas, historial de operaciones, visualización en tiempo real y un diseño visual impecable y responsivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
